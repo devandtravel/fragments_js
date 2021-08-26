@@ -5,6 +5,7 @@ You can use this fragments in your applications to implement some pieces of func
 
 ## Contents
 
-| Folder name | Description                                                                          |
-| :---------- | :----------------------------------------------------------------------------------- |
-| fetch_data  | fetch `data` from `url`, display `data` or unsuccessful `response status` or `error` |
+| Folder name           | Description                                                                                |
+| :-------------------- | :----------------------------------------------------------------------------------------- |
+| fetch-url             | fetch `data` from `url`, display `data` or unsuccessful `response status` or `error`       |
+| fetch-url-method-data | fetch `data` to/from `url` using `method`, return `data` or unsuccessful `warning message` |
