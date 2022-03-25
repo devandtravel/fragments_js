@@ -10,8 +10,9 @@ You can use this fragments in your applications to implement some pieces of func
 | fetch-url                   | fetch `data` from `url`, display `data` or unsuccessful `response status` or `error`       |
 | fetch-url-method-data       | fetch `data` to/from `url` using `method`, return `data` or unsuccessful `warning message` |
 | get-string-length-recursive | returns `length` from `string` using recurcion approach                                    |
-| replace_words_in_sentence   | returns `function`                                                                         |
+| replace-words-in-sentence   | returns `function`                                                                         |
 |                             | when the returned function takes 2 parameters, it does not return anything,                |
 |                             | but stores the obtained values as an array with two values;                                |
 |                             | when the returned function takes 1 parameter, it returns the resulting string,             |
 |                             | replacing all the words in it, according to the previously saved pairs                     |
+| integer-division            | returns the `result` of integer division of `one number` by `another`                      |
