@@ -18,4 +18,6 @@ You can use this fragments in your applications to implement some pieces of func
 | integer-division            | returns the `result` of integer division of `one number` by `another`                      |
 | binary-search               | returns the `number` from given `array` using binary search algorithm                      |
 | fibonacci                   | returns finding the n-th `fibonacci number` from given `n` using recurcive algorithm       |
-| allPairsFromArrays          | returns all number pairs from given `arrays` using O(n^2) algorithm                        |
+| allPairsFromArrays          | returns all number pairs from given `arrays` using O(n^2) complexity algorithm             |
+| arraysIntersections         | returns common elements in the `arr1` and `arr2` using binary search                       |
+| minMax                      | returns `{ min, max }` object from given `numbers` array                                   |
