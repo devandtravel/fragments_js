@@ -17,3 +17,4 @@ You can use this fragments in your applications to implement some pieces of func
 |                             | replacing all the words in it, according to the previously saved pairs                     |
 | integer-division            | returns the `result` of integer division of `one number` by `another`                      |
 | binary-search               | returns the `number` from given `array` using binary search algorithm                      |
+| fibonacci                   | returns finding the n-th `fibonacci number` from given `n` using recurcive algorithm       |
