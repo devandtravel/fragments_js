@@ -21,4 +21,5 @@ You can use this fragments in your applications to implement some pieces of func
 | allPairsFromArrays          | returns all number pairs from given `arrays` using O(n^2) complexity algorithm             |
 | arraysIntersections         | returns common elements in the `arr1` and `arr2` using binary search                       |
 | minMax                      | returns `{ min, max }` object from given `numbers` array                                   |
-| sum                         | returns `sum` from given `a` and `b` arguments                                             |
+| sum                         | returns `sum` from given `a` and `b` arguments (dangerously not typed)                     |
+| numberSum                   | returns `sum` from given `arguments`                                                       |
