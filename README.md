@@ -1,12 +1,22 @@
 # Fragments of JavaScript code
 
-This folder contains useful independent fragments of JS code.  
+This folder contains useful independent fragments of JS and TS code.  
 You can use this fragments in your applications to implement some pieces of functionality.
+Common fragments placed in `_*` folders.
 
 ## Contents
 
+### Common fragments
+
+| Folder name | Description                          |
+| :---------- | :----------------------------------- |
+| \_types     | common types used in other fragments |
+
+### Main fragments
+
 | Folder name                 | Description                                                                                |
 | :-------------------------- | :----------------------------------------------------------------------------------------- |
+| \_types                     | common types used in other fragments                                                       |
 | fetch-url                   | fetch `data` from `url`, display `data` or unsuccessful `response status` or `error`       |
 | fetch-url-method-data       | fetch `data` to/from `url` using `method`, return `data` or unsuccessful `warning message` |
 | get-string-length-recursive | returns `length` from `string` using recurcion approach                                    |
@@ -27,3 +37,4 @@ You can use this fragments in your applications to implement some pieces of func
 | square                      | returns `square` from given `number`                                                       |
 | identity                    | returns same `arg` from given `arg`                                                        |
 | stack (unfinished)          | `Stack` class realization                                                                  |
+| flatten                     | creates a new `array` with all sub-array elements concatenated into it                     |
